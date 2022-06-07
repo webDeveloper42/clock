@@ -1,0 +1,17 @@
+main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: auto;
+    height: 180px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.clock {
+    font-size: 70px;
+}
+/*# sourceMappingURL=style.css.map */

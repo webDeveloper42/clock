@@ -1,0 +1,13 @@
+$blue: rgb(105, 255, 245);
+
+main {
+    display: flex;
+    width: auto;
+    height: 180px;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+.clock{
+    font-size: 70px;
+}
